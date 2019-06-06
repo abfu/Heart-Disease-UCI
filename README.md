@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abfu/predicting_heart_disease/master)
 # Predicting Heart Disease
 
 ### Introduction
